@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": ["./assets/fonts/Inter-Black.otf"]
+        }
+      ]
+    ]
+  },
+  "splash": {
+    "image": "./assets/astro.png",
+    "resizeMode": "contain"
+  }
+}
